@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ouHwvz1YzN0hRH5WShwfSV/sKl9sK3oqvvR/Y+DCCb4=",
+  "Source": "StepIn.Services.OrderAPI",
+  "BasePath": "_content/StepIn.Services.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
